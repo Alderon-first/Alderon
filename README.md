@@ -2,8 +2,9 @@
 Меня зовут Катерина Ушко, я QA Engineer из Москвы.
 - :rocket: В тестировании более 3 лет. Знакома с ручным, нагрузочным и немного авто-тестами на python.
 
-- :mailbox_with_mail:	Как меня найти:&nbsp;&nbsp;&nbsp;<a hrefsrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/https://t.me/Alderon_first"><img alt="Telegram" width="22px" 
+- :mailbox_with_mail: Как меня найти:&nbsp;&nbsp;&nbsp;<a href="https://t.me/Alderon_first"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <br>
+
 
 ### :hammer_and_wrench: Языки и инструменты:
 <div>
