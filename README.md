@@ -24,3 +24,7 @@
 ### :floppy_disk: Примеры работ:
 
 :world_map: <a target="_blank" href="https://github.com/Alderon-first/test_python_mashroom">UI, API autotests example</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaZtv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaZtv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
