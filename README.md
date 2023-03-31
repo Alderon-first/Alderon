@@ -1,1 +1,30 @@
-# Alderon
+## Обо мне
+Меня зовут Катерина Ушко, я QA Engineer из Москвы.
+- :rocket: У меня более 3-х лет опыта ручного тестирования, а также небольшой опыт автотестов на Python.
+
+- :seedling: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
+
+- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia.pdf">Резюме</a>
+
+- :mailbox_with_mail:	Как меня найти:src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/https://t.me/Alderon_first"><img alt="Telegram" width="22px" 
+<br>
+
+### :hammer_and_wrench: Языки и инструменты:
+<div>
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/python.webp" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/pytest.png" title="Pytest" alt="Pytest" width="45" height="45"/>&nbsp; 
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Allure.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;  
+</div>
+<br>
+
+### :floppy_disk: Примеры работ:
+
+| :world_map: <a target="_blank" href="https://github.com/Alderon-first/test_python_mashroom">UI, API autotests example</a>  | 
+|----------------|---------------|
