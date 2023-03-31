@@ -1,10 +1,6 @@
 ## Обо мне
 Меня зовут Катерина Ушко, я QA Engineer из Москвы.
-- :rocket: У меня более 3-х лет опыта ручного тестирования, а также небольшой опыт автотестов на Python.
-
-- :seedling: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
-
-- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia.pdf">Резюме</a>
+- :rocket: В тестировании более 3 лет. Знакома с ручным, нагрузочным и немного авто-тестами на python.
 
 - :mailbox_with_mail:	Как меня найти:src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/https://t.me/Alderon_first"><img alt="Telegram" width="22px" 
 <br>
@@ -26,5 +22,4 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="https://github.com/Alderon-first/test_python_mashroom">UI, API autotests example</a>  | 
-|----------------|---------------|
+:world_map: <a target="_blank" href="https://github.com/Alderon-first/test_python_mashroom">UI, API autotests example</a>
